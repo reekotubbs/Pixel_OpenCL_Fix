@@ -1,37 +1,28 @@
-<h1 align="center">Magisk Module Template Extended (MMT-Ex)</h1>
+<h1 align="center">Magisk module to enable OpenCL</h1>
 
 <div align="center">
   <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-v2.1-blue.svg?longCache=true&style=popout-square"
+    <img src="https://img.shields.io/badge/Version-v1.0-blue.svg?longCache=true&style=popout-square"
       alt="Version" />
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-May 24, 2023-green.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Updated-July 8, 2023-green.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
   <!-- Min Magisk -->
-    <img src="https://img.shields.io/badge/MinMagisk-20.4-red.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/MinMagisk-26.1-red.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" /></div>
 
 <div align="center">
-  <strong>MMT Extended is the spiritual successor of Unity and makes magisk module creation easy. Instructions in the 
-    <h3><a href="https://github.com/Zackptg5/MMT-Extended/wiki">Wiki</a></h3>
+  <strong>Magisk module to enable OpenCL on Google Pixel branded devices.
 </div>
 
-<div align="center">
-  <h3>
-    <a href="https://github.com/Zackptg5/MMT-Extended">
-      Source Code
-    </a>
-    <span> | </span>
-    <a href="https://github.com/Zackptg5/MMT-Extended-Addons">
-      Addons Repository
-    </a>
-    <span> | </span>
-    <a href="https://forum.xda-developers.com/apps/magisk/magisk-module-template-extended-mmt-ex-t4029819">
-      XDA
-    </a>
-  </h3>
-</div>
+### Prerequisite
+- Google Pixel device must be rooted using Magisk
+- Device must have "/vendor/etc/public.libraries.txt" preinstalled
+
+### Devices Tested On
+- Google Pixel 3 XL G013C
 
 ### Usage
-- [Follow the directions here (DO NOT FORK)](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
-- Then follow instructions in [Wiki](https://github.com/Zackptg5/MMT-Extended/wiki)
+- Click on this repository's "Code" button and select "Download ZIP" from your Google Pixel Device
+- From Magisk's Module tab, click on install from storage and choose the downloaded zip
+- Restart your device
