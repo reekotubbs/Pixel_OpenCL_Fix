@@ -23,7 +23,8 @@
 - Google Pixel 3 XL G013C
 
 ### Usage
-- Visit this page from your Pixel Device using your Chrome Browser in Desktop Mode
-- Click on this repository's "Code" button and select "Download ZIP"
+- Visit this page from your Pixel Device
+- Scroll to the bottom of the page and click the latest release
+- Go to Assests and click on Pixel_OpenCL_Fix-master.zip to download the zip file to your device
 - From Magisk's Module tab, click on install from storage and choose the downloaded zip
 - Reboot device
