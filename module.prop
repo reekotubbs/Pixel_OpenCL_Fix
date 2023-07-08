@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v2.1
-versionCode=11
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=POF
+name=Pixel_OpenCL_Fix
+version=v1.0
+versionCode=1
+author=reekotubbs
+description=Magisk module to enable OpenCL on Google Pixel branded devices.
+updateJson=https://raw.githubusercontent.com/reekotubbs/Pixel_OpenCL_Fix/master/update.json
