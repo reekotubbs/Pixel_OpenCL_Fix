@@ -23,6 +23,7 @@
 - Google Pixel 3 XL G013C
 
 ### Usage
-- Click on this repository's "Code" button and select "Download ZIP" from your Google Pixel Device
+- Visit this page from your Pixel Device using your Chrome Browser in Desktop Mode
+- Click on this repository's "Code" button and select "Download ZIP"
 - From Magisk's Module tab, click on install from storage and choose the downloaded zip
 - Reboot device
