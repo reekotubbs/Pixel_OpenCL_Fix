@@ -25,4 +25,4 @@
 ### Usage
 - Click on this repository's "Code" button and select "Download ZIP" from your Google Pixel Device
 - From Magisk's Module tab, click on install from storage and choose the downloaded zip
-- Restart your device
+- Reboot device
