@@ -21,6 +21,8 @@
 
 ### Devices Tested On
 - Google Pixel 3 XL G013C
+- Google Pixel 5a
+- Google Pixel 7
 
 ### Usage
 - Visit this page from your Pixel Device
